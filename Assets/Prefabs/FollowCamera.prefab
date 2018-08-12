@@ -392,10 +392,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be4be4223f410e446912de125ab18d9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  boundsTop: 2.45
+  boundsTop: 18
   boundsBottom: 0
   boundsLeft: 0
-  boundsRight: 20.75
+  boundsRight: 22
   movementFromBase: {x: 0, y: 0}
   baseLocation: {x: 0, y: 0}
   layerSpeeds:
@@ -464,7 +464,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 300
   m_TargetDisplay: 0
 --- !u!224 &224068588725226044
 RectTransform:
