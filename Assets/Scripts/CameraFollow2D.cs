@@ -46,6 +46,6 @@ public class CameraFollow2D : MonoBehaviour
                                           new Vector2((movementFromBase.x * 0.015f) * layerSpeeds[i++], 0.0f));
             }
         }
-        //test2
+        //test
 	}
 }
