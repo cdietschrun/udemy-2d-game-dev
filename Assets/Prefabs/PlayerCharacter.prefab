@@ -111,6 +111,7 @@ MonoBehaviour:
   movementSpeed: 10
   jumpForce: 400
   maxVelocityX: 4
+  soundEffect: {fileID: 8300000, guid: 91197168c305a444f89dac62f8cdab9c, type: 3}
 --- !u!212 &212651327919366816
 SpriteRenderer:
   m_ObjectHideFlags: 1
